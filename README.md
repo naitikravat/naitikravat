@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @naitikravat
-- 👀 I’m interested in software development
+- 👋 Hi, I’m Naitik Ravat.
+- 👀 I'm a technology enthusiast and intrested in software development.
+- I'm an Undergrad at DA-IICT.
 
 <!---
 naitikravat/naitikravat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
